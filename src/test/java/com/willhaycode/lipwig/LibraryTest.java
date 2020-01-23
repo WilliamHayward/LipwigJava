@@ -3,14 +3,13 @@
  */
 package com.willhaycode.lipwig;
 
-import org.junit.Test;
-
-import junit.framework.Assert;
-
 import static org.junit.Assert.*;
 
+import org.junit.Test;
+
 public class LibraryTest {
-    @Test public void testSomeLibraryMethod() {
-        Lipwig lw = new Lipwig("Hello");
-    }
+  @Test
+  public void testSomeLibraryMethod() {
+    Lipwig lw = new Lipwig("Hello");
+  }
 }

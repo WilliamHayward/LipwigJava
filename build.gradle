@@ -9,6 +9,8 @@
 plugins {
     // Apply the java-library plugin to add support for Java Library
     id 'java-library'
+    // Google Style Guide Formatter
+    id 'com.github.sherter.google-java-format' version '0.8'
 }
 
 repositories {

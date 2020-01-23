@@ -4,7 +4,7 @@
 package com.willhaycode.lipwig;
 
 public class Lipwig {
-    public Lipwig(String message) {
-        System.out.println(message);
-    }
+  public Lipwig(String message) {
+    System.out.println(message);
+  }
 }
